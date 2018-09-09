@@ -1,0 +1,5 @@
+Observations
+
+1. In all 3 pie charts it can be seen that urban cities hold a good percentage of total fares, rides, and drivers.
+2. Rural cities hold the smallest numbers when it comes to total fares, rides, drivers, and this is because rural areas are very barren so they dont require as much transportation.
+3. There seems to be a negative correlation when it comes to average fare and total rides. As the number of rides increases, the average fare goes down.
